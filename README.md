@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @coderkrn
-- 👀 I’m interested Full stack development
+- 👀 I’m a Full stack development
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on web projects 
 - 📫 How to reach me - karanpal03040@gmail.com 
