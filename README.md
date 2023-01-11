@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @coderkrn
+- 👋 Hi, I’m Karan Pal
 - 👀 I’m a Full stack development
-- 🌱 I’m currently learning ...
+- 🌱 Pursuing graduation
 - 💞️ I’m looking to collaborate on web projects 
 - 📫 How to reach me - karanpal03040@gmail.com 
 
